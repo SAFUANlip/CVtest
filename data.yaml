@@ -1,0 +1,10 @@
+train: C:/Users/Safuan/Python/CVtest/train/data/images
+val: C:/Users/Safuan/Python/CVtest/val/data/images
+
+
+names:
+ 0: circle
+ 1: rhombus
+ 2: triangle
+ 3: hexagon
+
